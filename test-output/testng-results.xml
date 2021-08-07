@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26782" started-at="2021-08-07T07:17:02Z" finished-at="2021-08-07T07:17:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26782" started-at="2021-08-07T07:17:02Z" finished-at="2021-08-07T07:17:28Z">
+      <class name="SP1.selenium08082021.NewTest">
+        <test-method status="PASS" signature="MyTest1()[pri:0, instance:SP1.selenium08082021.NewTest@cb5822]" name="MyTest1" duration-ms="21868" started-at="2021-08-07T07:17:02Z" finished-at="2021-08-07T07:17:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyTest1 -->
+        <test-method status="PASS" signature="MyTest2()[pri:0, instance:SP1.selenium08082021.NewTest@cb5822]" name="MyTest2" duration-ms="4865" started-at="2021-08-07T07:17:24Z" finished-at="2021-08-07T07:17:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyTest2 -->
+      </class> <!-- SP1.selenium08082021.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
